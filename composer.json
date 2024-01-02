@@ -43,7 +43,7 @@
   "require": {
     "php": "^7.4|^8.0",
     "ext-sockets": "*",
-    "spatie/ssh": "dev-master"
+    "spatie/ssh": "dev-main"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^2.16",
